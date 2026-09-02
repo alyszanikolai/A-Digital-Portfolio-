@@ -22,7 +22,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%"><b>FullName:</b> Alysza Nikolai A. Dipaling</td>
+    <td width="50%"><b>Full Name:</b> Alysza Nikolai A. Dipaling</td>
     <td width="50%"><b>Course Code:</b> GE 4120</td>
   </tr>
   <tr>
@@ -34,20 +34,6 @@
     <td width="50%"><b>Academic Term:</b> Preliminary Examination Period</td>
   </tr>
 </table>
-
----
-
-## 🧰 Tech Stack & Tools Used
-
-<div align="center">
-
-![](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
-![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-</div>
 
 ---
 
@@ -123,6 +109,6 @@ Designing high-impact, data-driven digital healthcare infographics formatted for
 <div align="center">
 
 *Submitted in partial fulfillment of the requirements for GE 4120 — 21st Century IT Skills.*  
-**College of Nursing • 2026**
+**College of Nursing**
 
 </div>
