@@ -31,21 +31,21 @@
 ### 1. Presentation Design Principles
 Application of visual hierarchy, typography, color theory, and layout principles in digital slide design.
 
-* **Key Deliverables:** [`presentation-design-slides.pdf`](./prelims/activity-1-presentation-design/presentation-design-slides.pdf)
+* **Key Deliverables:** [`Activity 1.pdf`](./prelims/activity-1-presentation-design/presentation-design-slides.pdf)
 
 ---
 
 ### 2. Personal Branding
 Development of a cohesive personal brand identity tailored for health professional and IT integration.
 
-* **Key Deliverables:** [`personal-branding-kit.pdf`](./prelims/activity-2-personal-branding/personal-branding-kit.pdf)
+* **Key Deliverables:** [`Activity 2.pdf`](./prelims/activity-2-personal-branding/personal-branding-kit.pdf)
 
 ---
 
 ### 3. Social Media Infographics & Project Documentation
 Creation of visual healthcare/IT infographics designed for digital media engagement, accompanied by complete project documentation.
 
-* **Key Deliverables:** [`infographics-and-documentation.pdf`](./prelims/activity-3-social-media-infographics/infographics-and-documentation.pdf)
+* **Key Deliverables:** [`Activity 3.pdf`](./prelims/activity-3-social-media-infographics/infographics-and-documentation.pdf)
 
 ---
 
