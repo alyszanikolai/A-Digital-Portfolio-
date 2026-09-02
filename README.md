@@ -1,102 +1,128 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,100:00c4cc&height=200&section=header&text=GE%204120:%20IT%20Skills%20Portfolio&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,100:00c4cc&height=220&section=header&text=GE%204120:%2021st%20Century%20IT%20Skills&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<!-- Badges -->
-![](https://img.shields.io/badge/Student-Alysza_Dipaling-e11d48?style=for-the-badge&logo=medscape&logoColor=white)
-![](https://img.shields.io/badge/Program-BSN_4--D-00c4cc?style=for-the-badge)
-![](https://img.shields.io/badge/Status-Prelims_Completed-success?style=for-the-badge&logo=github&logoColor=white)
+<!-- Modern Shields & Badges -->
+![](https://img.shields.io/badge/Student-Alysza_Nikolai_A._Dipaling-e11d48?style=for-the-badge&logo=medscape&logoColor=white)
+![](https://img.shields.io/badge/Program-BSN_4th_Year-00c4cc?style=for-the-badge)
+![](https://img.shields.io/badge/Section-BSN_4--D-8b5cf6?style=for-the-badge)
+![](https://img.shields.io/badge/Status-Prelims_Completed-10b981?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">
-  <b>College of Nursing</b> • 21st Century IT Skills Coursework
-</p>
+<br/>
+
+> **Prelim Examination Portfolio**  
+> *A curated digital showcase integrating health sciences, personal branding, and 21st-century information technology.*
 
 ---
 
 </div>
 
-## 👤 Student Profile
+## 👤 Student Profile & Academic Context
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%"><b>Student Name:</b> Alysza Nikolai A. Dipaling</td>
+    <td width="50%"><b>FullName:</b> Alysza Nikolai A. Dipaling</td>
     <td width="50%"><b>Course Code:</b> GE 4120</td>
   </tr>
   <tr>
-    <td width="50%"><b>Program & Year:</b> BSN - 4th Year</td>
+    <td width="50%"><b>Program & Level:</b> Bachelor of Science in Nursing (BSN) - 4th Year</td>
     <td width="50%"><b>Course Title:</b> 21st Century IT Skills</td>
   </tr>
   <tr>
-    <td width="50%"><b>Section:</b> Section D</td>
-    <td width="50%"><b>Term:</b> Prelim Examination Period</td>
+    <td width="50%"><b>Class Section:</b> Section D</td>
+    <td width="50%"><b>Academic Term:</b> Preliminary Examination Period</td>
   </tr>
 </table>
 
 ---
 
-## 📂 Prelim Activities & Submissions
+## 🧰 Tech Stack & Tools Used
 
-| Activity | Topic / Title | Visual Preview | Deliverable Link | Status |
+<div align="center">
+
+![](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Prelim Activities Dashboard
+
+| # | Activity Topic | Visual Preview | Submission Link | Progress |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | **Presentation Design Principles** | <img src="./Activity%201/preview-1.png" width="140" alt="Activity 1 Preview"> | [📄 View PDF](./Activity%201/Activity%201.pdf) | `Completed` |
-| **02** | **Personal Branding** | <img src="./Activity%202/preview-2.png" width="140" alt="Activity 2 Preview"> | [📄 View PDF](./Activity%202/Activity%202.pdf) | `Completed` |
-| **03** | **Social Media Infographics & Documentation** | <img src="./Activity%203/preview-3.png" width="140" alt="Activity 3 Preview"> | [📄 View PDF](./Activity%203/Activity%203.pdf) | `Completed` |
+| **01** | **Presentation Design Principles**<br><sub>Visual hierarchy, typography & color theory</sub> | <img src="./Activity%201/preview-1.png" width="130" alt="Activity 1 Preview"> | [📄 Open PDF](./Activity%201/Activity%201.pdf) | `Completed` |
+| **02** | **Personal Branding**<br><sub>Logo design, brand identity & color palette</sub> | <img src="./Activity%202/preview-2.png" width="130" alt="Activity 2 Preview"> | [📄 Open PDF](./Activity%202/Activity%202.pdf) | `Completed` |
+| **03** | **Social Media Infographics**<br><sub>Healthcare infographics & documentation</sub> | <img src="./Activity%203/preview-3.png" width="130" alt="Activity 3 Preview"> | [📄 Open PDF](./Activity%203/Activity%203.pdf) | `Completed` |
 
 ---
 
-## 🛠️ Project Showcase
+## 🛠️ Detailed Activity Submissions
 
-### 1. Presentation Design Principles
-> Focuses on visual hierarchy, typography, balanced composition, color harmony, and key layout principles tailored for effective visual communication in digital slide decks.
+### 1️⃣ Activity 1: Presentation Design Principles
+Application of design fundamentals including typography, visual hierarchy, grid alignment, and color harmony within professional slide decks.
 
 <details open>
-<summary><b>🔍 View Activity 1 Preview</b></summary>
+<summary><b>🔍 Expand Activity 1 Preview</b></summary>
 <br>
 
 <div align="center">
-  <img src="./Activity%201/preview-1.png" width="80%" alt="Activity 1 Preview">
+  <a href="./Activity%201/Activity%201.pdf">
+    <img src="./Activity%201/preview-1.png" width="85%" alt="Activity 1 Preview Card">
+  </a>
 </div>
 </details>
 
-* **Deliverable File:** [`Activity 1.pdf`](./Activity%201/Activity%201.pdf)
+* 🔗 **Primary Deliverable:** [`Activity 1.pdf`](./Activity%201/Activity%201.pdf)
+* 📁 **Folder Location:** `./Activity 1/`
 
 ---
 
-### 2. Personal Branding
-> Development of a unified personal brand identity, personal logo, color palette, and branding guide designed to position a 4th-year nursing professional within the digital IT landscape.
+### 2️⃣ Activity 2: Personal Branding
+Development of an individual brand identity, personal emblem/logo, and color suite tailored to represent a 4th-year nursing professional navigating modern health IT.
 
 <details open>
-<summary><b>🔍 View Activity 2 Preview</b></summary>
+<summary><b>🔍 Expand Activity 2 Preview</b></summary>
 <br>
 
 <div align="center">
-  <img src="./Activity%202/preview-2.png" width="80%" alt="Activity 2 Preview">
+  <a href="./Activity%202/Activity%202.pdf">
+    <img src="./Activity%202/preview-2.png" width="85%" alt="Activity 2 Preview Card">
+  </a>
 </div>
 </details>
 
-* **Deliverable File:** [`Activity 2.pdf`](./Activity%202/Activity%202.pdf)
+* 🔗 **Primary Deliverable:** [`Activity 2.pdf`](./Activity%202/Activity%202.pdf)
+* 📁 **Folder Location:** `./Activity 2/`
 
 ---
 
-### 3. Social Media Infographics & Documentation
-> Creation of engaging, data-driven healthcare and IT infographics formatted for social platforms, alongside structured project documentation.
+### 3️⃣ Activity 3: Social Media Infographics & Project Documentation
+Designing high-impact, data-driven digital healthcare infographics formatted for public media engagement, alongside complete project documentation.
 
 <details open>
-<summary><b>🔍 View Activity 3 Preview</b></summary>
+<summary><b>🔍 Expand Activity 3 Preview</b></summary>
 <br>
 
 <div align="center">
-  <img src="./Activity%203/preview-3.png" width="80%" alt="Activity 3 Preview">
+  <a href="./Activity%203/Activity%203.pdf">
+    <img src="./Activity%203/preview-3.png" width="85%" alt="Activity 3 Preview Card">
+  </a>
 </div>
 </details>
 
-* **Deliverable File:** [`Activity 3.pdf`](./Activity%203/Activity%203.pdf)
+* 🔗 **Primary Deliverable:** [`Activity 3.pdf`](./Activity%203/Activity%203.pdf)
+* 📁 **Folder Location:** `./Activity 3/`
 
 ---
 
 <div align="center">
 
-*Submitted in partial fulfillment of the requirements for GE 4120 — 21st Century IT Skills.*
+*Submitted in partial fulfillment of the requirements for GE 4120 — 21st Century IT Skills.*  
+**College of Nursing • 2026**
 
 </div>
