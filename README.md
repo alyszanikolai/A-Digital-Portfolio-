@@ -1,8 +1,7 @@
 # 💻 GE 4120: 21st Century IT Skills
 
 > **Prelim Exam Portfolio**  
-> A structured repository containing coursework, activities, and digital artifacts completed for the preliminary period.  
-> 🌐 **Live Web Portfolio:** [View Live Site](https://your-username.github.io/GE4120-21st-Century-IT-Skills/)
+> A structured repository containing coursework, activities, and digital artifacts completed for the preliminary period.
 
 ---
 
@@ -18,11 +17,11 @@
 
 ## 📂 Prelim Activities & Projects
 
-| Activity | Topic / Title | Folder Link | Status |
+| Activity | Topic / Title | File Link | Status |
 | :--- | :--- | :---: | :---: |
-| **Activity 1** | Presentation Design Principles | [View Folder](./prelims/activity-1-presentation-design/) | `Completed` |
-| **Activity 2** | Personal Branding | [View Folder](./prelims/activity-2-personal-branding/) | `Completed` |
-| **Activity 3** | Social Media Infographics & Documentation | [View Folder](./prelims/activity-3-social-media-infographics/) | `Completed` |
+| **Activity 1** | Presentation Design Principles | [View PDF](./prelims/Activity%201.pdf) | `Completed` |
+| **Activity 2** | Personal Branding | [View PDF](./prelims/Activity%202.pdf) | `Completed` |
+| **Activity 3** | Social Media Infographics & Documentation | [View PDF](./prelims/Activity%203.pdf) | `Completed` |
 
 ---
 
@@ -31,21 +30,21 @@
 ### 1. Presentation Design Principles
 Application of visual hierarchy, typography, color theory, and layout principles in digital slide design.
 
-* **Key Deliverables:** [`Activity 1.pdf`](./prelims/activity-1-presentation-design/presentation-design-slides.pdf)
+* **Key Deliverables:** [`Activity 1.pdf`](./prelims/Activity%201.pdf)
 
 ---
 
 ### 2. Personal Branding
 Development of a cohesive personal brand identity tailored for health professional and IT integration.
 
-* **Key Deliverables:** [`Activity 2.pdf`](./prelims/activity-2-personal-branding/personal-branding-kit.pdf)
+* **Key Deliverables:** [`Activity 2.pdf`](./prelims/Activity%202.pdf)
 
 ---
 
 ### 3. Social Media Infographics & Project Documentation
 Creation of visual healthcare/IT infographics designed for digital media engagement, accompanied by complete project documentation.
 
-* **Key Deliverables:** [`Activity 3.pdf`](./prelims/activity-3-social-media-infographics/infographics-and-documentation.pdf)
+* **Key Deliverables:** [`Activity 3.pdf`](./prelims/Activity%203.pdf)
 
 ---
 
