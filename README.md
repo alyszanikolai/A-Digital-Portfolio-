@@ -8,7 +8,7 @@
 
 ## 👤 Student Profile
 
-* **Student:** [Your Name]
+* **Student:** [Alysza Nikolai A. Dipaling]
 * **Program & Year:** BSN - 4th Year
 * **Section:** Section D
 * **Course:** GE 4120 - 21st Century IT Skills
