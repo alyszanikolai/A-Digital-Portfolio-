@@ -19,9 +19,9 @@
 
 | Activity | Topic / Title | File Link | Status |
 | :--- | :--- | :---: | :---: |
-| **Activity 1** | Presentation Design Principles | [View PDF](prelims/Activity%201.pdf?raw=true) | `Completed` |
-| **Activity 2** | Personal Branding | [View PDF](prelims/Activity%202.pdf?raw=true) | `Completed` |
-| **Activity 3** | Social Media Infographics & Documentation | [View PDF](prelims/Activity%203.pdf?raw=true) | `Completed` |
+| **Activity 1** | Presentation Design Principles | [View PDF](./Activity%201/Activity%201.pdf) | `Completed` |
+| **Activity 2** | Personal Branding | [View PDF](./Activity%202/Activity%202.pdf) | `Completed` |
+| **Activity 3** | Social Media Infographics & Documentation | [View PDF](./Activity%203/Activity%203.pdf) | `Completed` |
 
 ---
 
@@ -30,21 +30,21 @@
 ### 1. Presentation Design Principles
 Application of visual hierarchy, typography, color theory, and layout principles in digital slide design.
 
-* **Key Deliverables:** [Activity 1.pdf](prelims/Activity%201.pdf?raw=true)
+* **Key Deliverables:** [Activity 1.pdf](./Activity%201/Activity%201.pdf)
 
 ---
 
 ### 2. Personal Branding
 Development of a cohesive personal brand identity tailored for health professional and IT integration.
 
-* **Key Deliverables:** [Activity 2.pdf](prelims/Activity%202.pdf?raw=true)
+* **Key Deliverables:** [Activity 2.pdf](./Activity%202/Activity%202.pdf)
 
 ---
 
 ### 3. Social Media Infographics & Project Documentation
 Creation of visual healthcare/IT infographics designed for digital media engagement, accompanied by complete project documentation.
 
-* **Key Deliverables:** [Activity 3.pdf](prelims/Activity%203.pdf?raw=true)
+* **Key Deliverables:** [Activity 3.pdf](./Activity%203/Activity%203.pdf)
 
 ---
 
