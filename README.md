@@ -7,12 +7,12 @@
 ![](https://img.shields.io/badge/Student-Alysza_Nikolai_A._Dipaling-e11d48?style=for-the-badge&logo=medscape&logoColor=white)
 ![](https://img.shields.io/badge/Program-BSN_4th_Year-00c4cc?style=for-the-badge)
 ![](https://img.shields.io/badge/Section-BSN_4--D-8b5cf6?style=for-the-badge)
-![](https://img.shields.io/badge/Status-Midterms_In_Progress-10b981?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Midterms-In_Progress-28a745?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
-> **Course Portfolio**  
-> *A curated digital showcase integrating health sciences, personal branding, and 21st-century information technology.*
+> <font size="3"><b>Course Portfolio & Academic Deliverables</b></font>  
+> <sub>A curated digital showcase integrating health sciences, personal branding, and 21st-century information technology.</sub>
 
 ---
 
@@ -26,7 +26,7 @@
     <td width="50%"><b>Course Code:</b> GE 4120</td>
   </tr>
   <tr>
-    <td width="50%"><b>Program & Level:</b> Bachelor of Science in Nursing (BSN) - 4th Year</td>
+    <td width="50%"><b>Program & Level:</b> Bachelor of Science in Nursing (BSN) — 4th Year</td>
     <td width="50%"><b>Course Title:</b> 21st Century IT Skills</td>
   </tr>
   <tr>
@@ -41,11 +41,11 @@
 
 ## 📂 Prelim Activities Dashboard
 
-| # | Activity Topic | Visual Preview | Submission Link | Progress |
+| # | Activity Topic | Visual Preview | Deliverable Link | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | **Presentation Design Principles**<br><sub>Visual hierarchy, typography & color theory</sub> | <img src="./Activity%201/preview-1.png" width="120" alt="Activity 1 Preview"> | [📄 Open PDF](./Activity%201/Activity%201.pdf) | `Completed` |
-| **02** | **Personal Branding**<br><sub>Logo design, brand identity & color palette</sub> | <img src="./Activity%202/preview-2.png" width="120" alt="Activity 2 Preview"> | [📄 Open PDF](./Activity%202/Activity%202.pdf) | `Completed` |
-| **03** | **Social Media Infographics**<br><sub>Healthcare infographics & documentation</sub> | <img src="./Activity%203/preview-3.png" width="120" alt="Activity 3 Preview"> | [📄 Open PDF](./Activity%203/Activity%203.pdf) | `Completed` |
+| **01** | **Presentation Design Principles**<br><sub>Visual hierarchy, typography & color theory</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%201/preview-1.png" width="140" alt="Activity 1 Preview"></details> | [📄 Open PDF](./Activity%201/Activity%201.pdf) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **02** | **Personal Branding**<br><sub>Logo design, brand identity & color palette</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%202/preview-2.png" width="140" alt="Activity 2 Preview"></details> | [📄 Open PDF](./Activity%202/Activity%202.pdf) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **03** | **Social Media Infographics**<br><sub>Healthcare infographics & documentation</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%203/preview-3.png" width="140" alt="Activity 3 Preview"></details> | [📄 Open PDF](./Activity%203/Activity%203.pdf) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
 
 ---
 
@@ -55,7 +55,7 @@
 Application of design fundamentals including typography, visual hierarchy, grid alignment, and color harmony within professional slide decks.
 
 <details>
-<summary><b>🔍 View Activity 1 Preview</b></summary>
+<summary><b>🔍 Expand Activity 1 Preview</b></summary>
 <br>
 
 <div align="center">
@@ -74,7 +74,7 @@ Application of design fundamentals including typography, visual hierarchy, grid 
 Development of an individual brand identity, personal emblem/logo, and color suite tailored to represent a 4th-year nursing professional navigating modern health IT.
 
 <details>
-<summary><b>🔍 View Activity 2 Preview</b></summary>
+<summary><b>🔍 Expand Activity 2 Preview</b></summary>
 <br>
 
 <div align="center">
@@ -93,7 +93,7 @@ Development of an individual brand identity, personal emblem/logo, and color sui
 Designing high-impact, data-driven digital healthcare infographics formatted for public media engagement, alongside complete project documentation.
 
 <details>
-<summary><b>🔍 View Activity 3 Preview</b></summary>
+<summary><b>🔍 Expand Activity 3 Preview</b></summary>
 <br>
 
 <div align="center">
@@ -112,9 +112,9 @@ Designing high-impact, data-driven digital healthcare infographics formatted for
 
 ## 📂 Midterm Activities Dashboard
 
-| # | Activity Topic | Visual Preview | Submission Link | Progress |
+| # | Activity Topic | Visual Preview | Deliverable Link | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **04** | **From Response to Connection: Exploring Google Forms & Google Meet**<br><sub>Group presentation & interactive digital tools</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%204/preview-4.png" width="140" alt="Activity 4 Preview"></details> | [📄 Open PDF](./Activity%204/Activity%204.pdf) | `Completed` |
+| **04** | **From Response to Connection: Exploring Google Forms & Google Meet**<br><sub>Group presentation & interactive digital tools</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%204/preview-4.png" width="140" alt="Activity 4 Preview"></details> | [📄 Open PDF](./Activity%204/Activity%204.pdf) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
 
 ---
 
@@ -124,7 +124,7 @@ Designing high-impact, data-driven digital healthcare infographics formatted for
 Group presentation exploring collaborative digital feedback mechanisms, data collection through Google Forms, and synchronous online connection strategies via Google Meet.
 
 <details>
-<summary><b>🔍 View Activity 4 Preview</b></summary>
+<summary><b>🔍 Expand Activity 4 Preview</b></summary>
 <br>
 
 <div align="center">
@@ -141,7 +141,7 @@ Group presentation exploring collaborative digital feedback mechanisms, data col
 
 <div align="center">
 
-*Submitted in partial fulfillment of the requirements for GE 4120 — 21st Century IT Skills.*  
-**College of Nursing**
+<sub>Submitted in partial fulfillment of the requirements for <b>GE 4120 — 21st Century IT Skills</b>.</sub><br>
+<b>College of Nursing</b>
 
 </div>
