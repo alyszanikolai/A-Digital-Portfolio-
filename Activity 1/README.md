@@ -6,9 +6,9 @@
 ---
 
 ## 📋 Activity Description
-This activity focused on applying core visual communication and slide design fundamentals—such as visual hierarchy, typography pairing, grid alignment, whitespace, and color harmony—to transform dense information into clear, visually engaging presentation slides.
+This activity focused on applying core visual communication and slide design fundamentals—such as visual hierarchy, typography pairing, alignment, and color harmony—to create a clean, visually appealing presentation.
 
 ## 💡 What Have I Learned?
-* **Key Concepts & Skills Gained:** I learned how to limit text per slide, use font weights and size contrast to guide the viewer's eye, and stick to a cohesive color palette so the design supports the message rather than distracting from it.
-* **Challenge & Solution:** My main challenge was condensing detailed nursing and technical topics onto slides without losing important context. I solved this by replacing long paragraphs with concise bullet points, clean icons, and structured visual callouts.
-* **Future Application:** I will use these layout and hierarchy principles whenever I prepare patient health education decks, clinical case presentations, and nursing research defenses.
+* **Key Concepts & Skills Gained:** I learned how layout balance, font contrast, and intentional color choices make presentation slides cleaner and much easier to follow.
+* **Challenge & Solution:** Coming up with a creative direction from scratch was difficult at first because I was still unsure of what style or concept to pursue. To get past that creative block, I browsed through Pinterest to gather visual inspiration and layout ideas, then adapted what worked into my own design.
+* **Future Application:** Whenever I need to build patient health education decks or clinical case presentations in nursing, I now know how to look for structured design references first so my slides turn out organized and engaging.
