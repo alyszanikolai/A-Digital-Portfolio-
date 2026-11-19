@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-<table width="100%">
+<table>
   <tr>
     <td width="110" align="center" valign="middle">
       <img src="./About%20Me/myphoto.jpg" width="85" height="85" alt="Alysza Nikolai A. Dipaling" />
@@ -56,19 +56,23 @@
 
 ---
 
-# 📌 PART I: PRELIM TERM PORTFOLIO
+## 📂 Course Portfolio & Activities
 
-<table width="100%">
+<table>
   <thead>
     <tr>
-      <th width="6%" align="center">#</th>
-      <th width="39%" align="left">Activity Topic</th>
-      <th width="20%" align="center">Visual Preview</th>
-      <th width="23%" align="center">Deliverable & Reflection</th>
-      <th width="12%" align="center">Status</th>
+      <th align="center">#</th>
+      <th align="left">Activity Topic</th>
+      <th align="center">Visual Preview</th>
+      <th align="center">Deliverable & Reflection</th>
+      <th align="center">Status</th>
     </tr>
   </thead>
   <tbody>
+    <!-- PRELIM SECTION -->
+    <tr>
+      <td colspan="5" align="left"><b>📌 PART I: PRELIM TERM PORTFOLIO</b></td>
+    </tr>
     <tr>
       <td align="center"><b>01</b></td>
       <td><b>Presentation Design Principles</b><br><sub>Visual hierarchy, typography & color theory</sub></td>
@@ -90,24 +94,10 @@
       <td align="center"><a href="./Activity%203/Activity%203.pdf">📄 Open PDF</a> • <a href="./Activity%203/README.md">📝 Reflection</a></td>
       <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
     </tr>
-  </tbody>
-</table>
-
----
-
-# 📌 PART II: MIDTERM TERM PORTFOLIO
-
-<table width="100%">
-  <thead>
+    <!-- MIDTERM SECTION -->
     <tr>
-      <th width="6%" align="center">#</th>
-      <th width="39%" align="left">Activity Topic</th>
-      <th width="20%" align="center">Visual Preview</th>
-      <th width="23%" align="center">Deliverable & Reflection</th>
-      <th width="12%" align="center">Status</th>
+      <td colspan="5" align="left"><b>📌 PART II: MIDTERM TERM PORTFOLIO</b></td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td align="center"><b>04</b></td>
       <td><b>From Response to Connection: Google Forms & Google Meet</b><br><sub>Group presentation & interactive digital tools</sub></td>
@@ -115,24 +105,10 @@
       <td align="center"><a href="./Activity%204/Activity%204.pdf">📄 Open PDF</a> • <a href="./Activity%204/README.md">📝 Reflection</a></td>
       <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
     </tr>
-  </tbody>
-</table>
-
----
-
-# 📌 PART III: PRE-FINALS PORTFOLIO
-
-<table width="100%">
-  <thead>
+    <!-- PRE-FINALS SECTION -->
     <tr>
-      <th width="6%" align="center">#</th>
-      <th width="39%" align="left">Activity Topic</th>
-      <th width="20%" align="center">Visual Preview</th>
-      <th width="23%" align="center">Deliverable & Reflection</th>
-      <th width="12%" align="center">Status</th>
+      <td colspan="5" align="left"><b>📌 PART III: PRE-FINALS PORTFOLIO</b></td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td align="center"><b>05</b></td>
       <td><b>AI Tools Activity</b><br><sub>Precision prompt engineering & AI image/text generation</sub></td>
