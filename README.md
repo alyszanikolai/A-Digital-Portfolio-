@@ -27,7 +27,7 @@
     </td>
     <td valign="middle">
       <b>Alysza Nikolai A. Dipaling</b><br>
-      <sub>BSN 4th Year — Section D • [Your School Name]</sub><br><br>
+      <sub>BSN 4th Year — Section D • Ateneo de Davao University - College School of Nursing</sub><br><br>
       Hi! I’m Alysza, a graduating Bachelor of Science in Nursing student balancing clinical duties with learning how modern digital tools actually work in the real world. Outside of nursing school, I enjoy clean visual design, organizing projects neatly, and finding practical ways to use technology without losing a genuine, human touch.<br><br>
       <b>Course:</b> GE 4120 — 21st Century IT Skills<br>
       <b>Interests:</b> Visual & Brand Design, Practical Tech Tools, Web Layouts & Healthcare Communication
@@ -87,6 +87,6 @@
 <div align="center">
 
 <sub>Submitted in partial fulfillment of the requirements for <b>GE 4120 — 21st Century IT Skills</b>.</sub><br>
-<b>College of Nursing</b>
+<b>Ateneo de Davao University - College School of Nursing</b>
 
 </div>
