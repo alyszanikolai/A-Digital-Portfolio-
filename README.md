@@ -60,9 +60,9 @@
 
 | # | Activity Topic | Visual Preview | Deliverable & Reflection | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | **Presentation Design Principles**<br><sub>Visual hierarchy, typography & color theory</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity-1/preview-1.png" width="140" alt="Activity 1 Preview"></details> | [📄 Open PDF](./Activity-1/Activity-1.pdf) • [📝 Reflection](./Activity-1/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **02** | **Personal Branding**<br><sub>Logo design, brand identity & color palette</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity-2/preview-2.png" width="140" alt="Activity 2 Preview"></details> | [📄 Open PDF](./Activity-2/Activity-2.pdf) • [📝 Reflection](./Activity-2/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **03** | **Social Media Infographics**<br><sub>Healthcare infographics & documentation</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity-3/preview-3.png" width="140" alt="Activity 3 Preview"></details> | [📄 Open PDF](./Activity-3/Activity-3.pdf) • [📝 Reflection](./Activity-3/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **01** | **Presentation Design Principles**<br><sub>Visual hierarchy, typography & color theory</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%201/preview-1.png" width="140" alt="Activity 1 Preview"></details> | [📄 Open PDF](./Activity%201/Activity%201.pdf) • [📝 Reflection](./Activity%201/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **02** | **Personal Branding**<br><sub>Logo design, brand identity & color palette</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%202/preview-2.png" width="140" alt="Activity 2 Preview"></details> | [📄 Open PDF](./Activity%202/Activity%202.pdf) • [📝 Reflection](./Activity%202/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **03** | **Social Media Infographics**<br><sub>Healthcare infographics & documentation</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%203/preview-3.png" width="140" alt="Activity 3 Preview"></details> | [📄 Open PDF](./Activity%203/Activity%203.pdf) • [📝 Reflection](./Activity%203/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
 
 ---
 
@@ -70,7 +70,7 @@
 
 | # | Activity Topic | Visual Preview | Deliverable & Reflection | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **04** | **From Response to Connection: Exploring Google Forms & Google Meet**<br><sub>Group presentation & interactive digital tools</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity-4/preview-4.png" width="140" alt="Activity 4 Preview"></details> | [📄 Open PDF](./Activity-4/Activity-4.pdf) • [📝 Reflection](./Activity-4/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **04** | **From Response to Connection: Exploring Google Forms & Google Meet**<br><sub>Group presentation & interactive digital tools</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%204/preview-4.png" width="140" alt="Activity 4 Preview"></details> | [📄 Open PDF](./Activity%204/Activity%204.pdf) • [📝 Reflection](./Activity%204/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
 
 ---
 
@@ -78,9 +78,9 @@
 
 | # | Activity Topic | Visual Preview | Deliverable & Reflection | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **05** | **AI Tools Activity**<br><sub>Precision prompt engineering & AI image/text generation</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity-5/preview-5.png" width="140" alt="Activity 5 Preview"></details> | [📄 Open PDF](./Activity-5/Activity-5.pdf) • [📝 Reflection](./Activity-5/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **06** | **Making a Website**<br><sub>Clothing company web concept & visual layout</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity-6/preview-6.png" width="140" alt="Activity 6 Preview"></details> | [📁 Open Folder](./Activity-6/) • [📝 Reflection](./Activity-6/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **07** | **Resume Generating**<br><sub>Authentic, realistic nursing resume & career profile</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity-7/preview-7.png" width="140" alt="Activity 7 Preview"></details> | [📄 Open PDF](./Activity-7/Activity-7.pdf) • [📝 Reflection](./Activity-7/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **05** | **AI Tools Activity**<br><sub>Precision prompt engineering & AI image/text generation</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%205/preview-5.png" width="140" alt="Activity 5 Preview"></details> | [📄 Open PDF](./Activity%205/Activity%205.pdf) • [📝 Reflection](./Activity%205/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **06** | **Making a Website**<br><sub>Clothing company web concept & visual layout</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%206/preview-6.png" width="140" alt="Activity 6 Preview"></details> | [📁 Open Folder](./Activity%206/) • [📝 Reflection](./Activity%206/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **07** | **Resume Generating**<br><sub>Authentic, realistic nursing resume & career profile</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%207/preview-7.png" width="140" alt="Activity 7 Preview"></details> | [📄 Open PDF](./Activity%207/Activity%207.pdf) • [📝 Reflection](./Activity%207/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
 
 ---
 
