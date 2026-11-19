@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-<table>
+<table width="100%">
   <tr>
     <td width="110" align="center" valign="middle">
       <img src="./About%20Me/myphoto.jpg" width="85" height="85" alt="Alysza Nikolai A. Dipaling" />
@@ -58,26 +58,110 @@
 
 # 📌 PART I: PRELIM TERM PORTFOLIO
 
-| # | Activity Topic | Visual Preview | Deliverable & Reflection | Status |
-| :---: | :--- | :---: | :---: | :---: |
-| **01** | **Presentation Design Principles**<br><sub>Visual hierarchy, typography & color theory</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%201/preview-1.png" width="140" alt="Activity 1 Preview"></details> | [📄 Open PDF](./Activity%201/Activity%201.pdf) • [📝 Reflection](./Activity%201/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **02** | **Personal Branding**<br><sub>Logo design, brand identity & color palette</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%202/preview-2.png" width="140" alt="Activity 2 Preview"></details> | [📄 Open PDF](./Activity%202/Activity%202.pdf) • [📝 Reflection](./Activity%202/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **03** | **Social Media Infographics**<br><sub>Healthcare infographics & documentation</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%203/preview-3.png" width="140" alt="Activity 3 Preview"></details> | [📄 Open PDF](./Activity%203/Activity%203.pdf) • [📝 Reflection](./Activity%203/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="6%" align="center">#</th>
+      <th width="39%" align="left">Activity Topic</th>
+      <th width="20%" align="center">Visual Preview</th>
+      <th width="23%" align="center">Deliverable & Reflection</th>
+      <th width="12%" align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>01</b></td>
+      <td><b>Presentation Design Principles</b><br><sub>Visual hierarchy, typography & color theory</sub></td>
+      <td align="center"><details><summary>🔍 Expand Preview</summary><br><img src="./Activity%201/preview-1.png" width="130" alt="Activity 1 Preview"></details></td>
+      <td align="center"><a href="./Activity%201/Activity%201.pdf">📄 Open PDF</a> • <a href="./Activity%201/README.md">📝 Reflection</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>02</b></td>
+      <td><b>Personal Branding</b><br><sub>Logo design, brand identity & color palette</sub></td>
+      <td align="center"><details><summary>🔍 Expand Preview</summary><br><img src="./Activity%202/preview-2.png" width="130" alt="Activity 2 Preview"></details></td>
+      <td align="center"><a href="./Activity%202/Activity%202.pdf">📄 Open PDF</a> • <a href="./Activity%202/README.md">📝 Reflection</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>03</b></td>
+      <td><b>Social Media Infographics</b><br><sub>Healthcare infographics & documentation</sub></td>
+      <td align="center"><details><summary>🔍 Expand Preview</summary><br><img src="./Activity%203/preview-3.png" width="130" alt="Activity 3 Preview"></details></td>
+      <td align="center"><a href="./Activity%203/Activity%203.pdf">📄 Open PDF</a> • <a href="./Activity%203/README.md">📝 Reflection</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 # 📌 PART II: MIDTERM TERM PORTFOLIO
 
-| # | Activity Topic | Visual Preview | Deliverable & Reflection | Status |
-| :---: | :--- | :---: | :---: | :---: |
-| **04** | **From Response to Connection: Exploring Google Forms & Google Meet**<br><sub>Group presentation & interactive digital tools</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%204/preview-4.png" width="140" alt="Activity 4 Preview"></details> | [📄 Open PDF](./Activity%204/Activity%204.pdf) • [📝 Reflection](./Activity%204/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="6%" align="center">#</th>
+      <th width="39%" align="left">Activity Topic</th>
+      <th width="20%" align="center">Visual Preview</th>
+      <th width="23%" align="center">Deliverable & Reflection</th>
+      <th width="12%" align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>04</b></td>
+      <td><b>From Response to Connection: Google Forms & Google Meet</b><br><sub>Group presentation & interactive digital tools</sub></td>
+      <td align="center"><details><summary>🔍 Expand Preview</summary><br><img src="./Activity%204/preview-4.png" width="130" alt="Activity 4 Preview"></details></td>
+      <td align="center"><a href="./Activity%204/Activity%204.pdf">📄 Open PDF</a> • <a href="./Activity%204/README.md">📝 Reflection</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 # 📌 PART III: PRE-FINALS PORTFOLIO
 
-| # | Activity Topic | Visual Preview | Deliverable & Reflection | Status |
-| :---: | :--- | :---: | :---: | :---: |
-| **05** | **AI Tools Activity**<br><sub>Precision prompt engineering & AI image/text generation</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%205/preview-5.png" width="140" alt="Activity 5 Preview"></details> | [📄 Open PDF](./Activity%205/Activity%205.pdf) • [📝 Reflection](./Activity%205/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **06** | **Making a Website**<br><sub>Clothing company web concept & visual layout</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%206/preview-6.png" width="140" alt="Activity 6 Preview"></details> | [📁 Open Folder](./Activity%206/) • [📝 Reflection](./Activity%206/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **07** | **Resume Generating**<br><sub>Authentic, realistic nursing resume & career profile</sub> | <details><summary>🔍 Expand Preview</summary><br><img src="./Activity%207/preview-7.png" width="140" alt="Activity 7 Preview"></details> | [📄 Open PDF](./Activity%207/Activity%207.pdf) • [📝 Reflection](./Activity%207/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square)
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="6%" align="center">#</th>
+      <th width="39%" align="left">Activity Topic</th>
+      <th width="20%" align="center">Visual Preview</th>
+      <th width="23%" align="center">Deliverable & Reflection</th>
+      <th width="12%" align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>05</b></td>
+      <td><b>AI Tools Activity</b><br><sub>Precision prompt engineering & AI image/text generation</sub></td>
+      <td align="center"><details><summary>🔍 Expand Preview</summary><br><img src="./Activity%205/preview-5.png" width="130" alt="Activity 5 Preview"></details></td>
+      <td align="center"><a href="./Activity%205/Activity%205.pdf">📄 Open PDF</a> • <a href="./Activity%205/README.md">📝 Reflection</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>06</b></td>
+      <td><b>Making a Website</b><br><sub>Clothing company web concept & visual layout</sub></td>
+      <td align="center"><details><summary>🔍 Expand Preview</summary><br><img src="./Activity%206/preview-6.png" width="130" alt="Activity 6 Preview"></details></td>
+      <td align="center"><a href="./Activity%206/">📁 Open Folder</a> • <a href="./Activity%206/README.md">📝 Reflection</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>07</b></td>
+      <td><b>Resume Generating</b><br><sub>Authentic, realistic nursing resume & career profile</sub></td>
+      <td align="center"><details><summary>🔍 Expand Preview</summary><br><img src="./Activity%207/preview-7.png" width="130" alt="Activity 7 Preview"></details></td>
+      <td align="center"><a href="./Activity%207/Activity%207.pdf">📄 Open PDF</a> • <a href="./Activity%207/README.md">📝 Reflection</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Completed-28a745?style=flat-square" alt="Completed"></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<div align="center">
+
+<sub>Submitted in partial fulfillment of the requirements for <b>GE 4120 — 21st Century IT Skills</b>.</sub><br>
+<b>Ateneo de Davao University - College School of Nursing</b>
+
+</div>
