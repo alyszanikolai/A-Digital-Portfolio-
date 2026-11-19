@@ -53,10 +53,10 @@
 
 </div>
 
-* **Visual & Brand Design:** Presentation hierarchy, color theory, typography, personal branding, and digital infographic creation.
-* **Cloud Collaboration & Data Collection:** Designing structured forms, analyzing responses, and managing virtual collaboration via Google Forms and Google Meet.
-* **AI Prompt Engineering & Career Readiness:** Crafting precise commands for AI generation tools and writing authentic, realistic resumes tailored for clinical nursing applications.
-* **Web & Version Control Fundamentals:** Building functional web layouts, managing repositories, and documenting projects using GitHub and Markdown.
+- **Visual & Brand Design:** Presentation hierarchy, color theory, typography, personal branding, and digital infographic creation.
+- **Cloud Collaboration & Data Collection:** Designing structured forms, analyzing responses, and managing virtual collaboration via Google Forms and Google Meet.
+- **AI Prompt Engineering & Career Readiness:** Crafting precise commands for AI generation tools and writing authentic, realistic resumes tailored for clinical nursing applications.
+- **Web & Version Control Fundamentals:** Building functional web layouts, managing repositories, and documenting projects using GitHub and Markdown.
 
 ---
 
@@ -83,7 +83,7 @@
 | # | Activity Topic | Visual Preview | Deliverable & Reflection | Status |
 | :---: | :--- | :---: | :---: | :---: |
 | **05** | **AI Tools Activity**<br><sub>Precision prompt engineering & AI image/text generation</sub> | <details><summary>🔍 Preview</summary><br><img src="./Activity%205/preview-5.png" width="140" alt="Activity 5 Preview"></details> | [📄 Open PDF](./Activity%205/Activity%205.pdf)<br>[📝 Reflection](./Activity%205/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
-| **06** | **Making a Website**<br><sub>Clothing company web concept & visual layout</sub> | <details><summary>🔍 Preview</summary><br><img src="./Activity%206/preview-6.png" width="140" alt="Activity 6 Preview"></details> | [📄 Open PDF](./Activity%206/)<br>[📝 Reflection](./Activity%206/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
+| **06** | **Making a Website**<br><sub>Clothing company web concept & visual layout</sub> | <details><summary>🔍 Preview</summary><br><img src="./Activity%206/preview-6.png" width="140" alt="Activity 6 Preview"></details> | [📄 Open PDF](./Activity%206/Activity%206.pdf)<br>[📝 Reflection](./Activity%206/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
 | **07** | **Resume Generating**<br><sub>Authentic, realistic nursing resume & career profile</sub> | <details><summary>🔍 Preview</summary><br><img src="./Activity%207/preview-7.png" width="140" alt="Activity 7 Preview"></details> | [📄 Open PDF](./Activity%207/Activity%207.pdf)<br>[📝 Reflection](./Activity%207/README.md) | ![](https://img.shields.io/badge/-Completed-28a745?style=flat-square) |
 
 ---
